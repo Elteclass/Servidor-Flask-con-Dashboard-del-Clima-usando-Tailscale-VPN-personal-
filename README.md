@@ -46,7 +46,7 @@ Los pasos detallados para la configuración y ejecución de este proyecto se enc
 
 ## 📸 Evidencias de Realización
 
-- **Terminal en Termux (Asciinema)**: Grabación completa de la sesión en la terminal, desde la instalación de dependencias hasta la ejecución del servidor.
+- [**Terminal en Termux (Asciinema)**](https://asciinema.org/a/ZsdvhUhoRkLkZUvlHKah32Eyb): Grabación completa de la sesión en la terminal, desde la instalación de dependencias hasta la ejecución del servidor.
 - **Captura con Otras Ciudades**: Imagen mostrando el dashboard con datos de diferentes ciudades para verificar la flexibilidad de la aplicación.
 - **Video de Demostración (Loom)**: Un video corto que muestra el dashboard en acción y su acceso remoto desde el PC.
 
