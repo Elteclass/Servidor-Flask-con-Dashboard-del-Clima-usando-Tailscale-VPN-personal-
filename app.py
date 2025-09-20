@@ -1,6 +1,6 @@
 # ╔═══════════════════════════════════════════════════════════════╗
 # ║        🌤️ Mini Dashboard del Clima con Flask + Tailscale       ║
-# ║        Lenguajes de Interfaz - TECNM / ITT - 2025               ║
+# ║        Sistemas Programables - TECNM / ITT - 2025               ║
 # ║        Autor: Jaime Antonio Alvarez Crisostomo                  ║
 # ║        Descripción: Servidor Flask consultando OpenWeatherMap ║
 # ╚═══════════════════════════════════════════════════════════════╝
@@ -13,7 +13,7 @@ import datetime  # Para mostrar la fecha actual en el dashboard.
 app = Flask(__name__)
 
 # --- Mi Configuración Personal ---
-# Aquí pongo mis datos, como mi clave de la API y la ciudad que se quiere consultar.
+# Clave de la API y la ciudad que se quiere consultar.
 API_KEY = "48e2797b0f9b3ac46c4f15532ad439ae"
 CITY = "Tijuana"
 AUTHOR_NAME = "Jaime Antonio Alvarez Crisostomo"
@@ -164,4 +164,5 @@ def weather_dashboard():
 # Punto de entrada del programa
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
+
 
