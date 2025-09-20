@@ -34,7 +34,7 @@ Construir un sistema funcional donde un teléfono móvil actúa como servidor, c
 
 ## 🚀 Puesta en Marcha
 
-Los pasos detallados para la configuración y ejecución de este proyecto se encuentran en el archivo `instrucciones.md`. El proceso general es el siguiente:
+El proceso general es el siguiente:
 
 1. **Configuración del Entorno**: Instalar Python y las dependencias (`Flask`, `requests`) en Termux dentro de un entorno virtual.
 2. **API Key**: Obtener una clave de API gratuita de OpenWeatherMap y colocarla en el archivo `app.py`.
@@ -46,15 +46,20 @@ Los pasos detallados para la configuración y ejecución de este proyecto se enc
 
 ## 📸 Evidencias de Realización
 
-- [**Terminal en Termux (Asciinema)**](https://asciinema.org/a/ZsdvhUhoRkLkZUvlHKah32Eyb): Grabación completa de la sesión en la terminal, desde la instalación de dependencias hasta la ejecución del servidor.
-- **Captura con Otras Ciudades**: Imagen mostrando el dashboard con datos de diferentes ciudades para verificar la flexibilidad de la aplicación.
-- **Video de Demostración (Loom)**: Un video corto que muestra el dashboard en acción y su acceso remoto desde el PC.
+- [**Terminal en Termux (Asciinema)**](https://asciinema.org/a/gRII9OJYxPj9GJD57AwaAtJH4): Grabación completa de la sesión en la terminal, desde la instalación de dependencias hasta la ejecución del servidor.
+- [**Video de Demostración (Loom)**](https://www.loom.com/share/a33330efdb2c4d848fd2097a58d38bdc?sid=26112b54-7802-4151-8a81-5e9618ab85ce): Un video corto que muestra el dashboard en acción y su acceso remoto desde el PC.
+- **Captura con Otras Ciudades**:
+<img width="1594" height="773" alt="image" src="https://github.com/user-attachments/assets/6c095f12-b6a2-4216-ae2f-99272f42551d" />
+<img width="1594" height="774" alt="image" src="https://github.com/user-attachments/assets/2a1ba4c6-60d1-4f7e-b9a4-bd878fbd393f" />
+<img width="1596" height="776" alt="image" src="https://github.com/user-attachments/assets/27e8862b-dc67-441e-85c1-b30d32d57f99" />
+<img width="1599" height="777" alt="image" src="https://github.com/user-attachments/assets/4b9ca6a1-ec60-481d-b121-7e1b187f4d81" />
+
 
 ---
 
 ## 🤖 Asistencia de IA
 
-Para la creación de la plantilla HTML, la estilización con Tailwind CSS, la refactorización del código Python y la elaboración de esta documentación, se utilizó la asistencia de la inteligencia artificial **Gemini de Google**.
+Para la estilización con Tailwind CSS y la elaboración de esta documentación, se utilizó la asistencia de la inteligencia artificial **Gemini de Google**.
 
 ---
 
